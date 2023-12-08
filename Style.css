@@ -1,0 +1,230 @@
+.img {
+    margin-top: 90px;
+}
+
+.topnav-right {
+    float: right;
+}
+
+body {
+    background-color: rgb(229, 230, 230);
+}
+
+.main {
+    margin-top: 70px;
+    margin-bottom: 190px;
+}
+
+.box0 {
+    margin-left: 20px;
+}
+
+.box1 {
+    font-size: 6em;
+    font-weight: bolder;
+    margin-top: 100px;
+}
+
+.box2 {
+    font-size: 25px;
+    padding-top: 17px;
+}
+
+.box3 {
+    padding: none;
+}
+
+.box4 {
+    margin-top: 55px;
+    border-radius: 50px;
+}
+
+.box5 {
+    background-color: rgb(230, 143, 3);
+    height: 144px;
+    border-radius: 100px;
+    border: 1px solid black;
+    cursor: pointer ! important;
+    text-align: center;
+    padding-top: 56px;
+    font-weight: bold;
+    font-size: large;
+
+}
+
+.box5:hover {
+    background: aliceblue;
+}
+
+.box6 {
+    background-color: rgb(242, 5, 5);
+    height: 144px;
+    border-radius: 100px;
+    border: 1px solid black;
+    cursor: pointer ! important;
+    text-align: center;
+    padding-top: 56px;
+    font-weight: bold;
+    font-size: large;
+}
+
+.box6:hover {
+    background: aliceblue;
+}
+
+.box7 {
+    background-color: rgb(65, 153, 215);
+    height: 144px;
+    border-radius: 100px;
+    border: 1px solid black;
+    cursor: pointer ! important;
+    text-align: center;
+    padding-top: 56px;
+    font-weight: bold;
+    font-size: large;
+}
+
+.box7:hover {
+    background: aliceblue;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+
+}
+
+.a1 {
+    display: flex;
+}
+
+.box8 {
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+
+.r1 {
+    font-size: 40px;
+    font-weight: bolder;
+    padding-top: 120px;
+    
+}
+.c1{
+    padding-top: 190px;
+}
+.c2{
+    font-size: 37px;
+    font-weight: bold;
+}
+
+.c3 {
+    padding-top: 80px;
+}
+
+.c4 {
+    
+    font-size: 27px;
+    font-weight: bold;
+}
+
+
+.c6 {
+    font-size: 18px;
+    font-weight: bold;
+
+}
+
+.c7 {
+    padding-bottom: 40px;
+    padding-top: 40px;
+}
+.c10{
+    font-size: 20px;
+    font-weight: bold;
+    padding-top: 19px;
+    padding-bottom: 10px;
+}
+
+.p1{
+    font-weight: bolder;
+    font-size: 28px;
+    padding-bottom: 10px;
+}
+.p2 {
+    padding-top: 110px;
+}
+
+.p3 {
+    padding-top: 110px;
+}
+
+.c8 {
+
+    padding-top: 220px;
+
+}
+
+.c9 {
+    font-size: 32px;
+    font-weight: bold;
+
+}
+
+.f{
+    padding-top: 50px;
+    padding-bottom: 70px;
+}
+.f1{
+    
+    font-weight: bold;
+}
+
+.f3{
+    padding-left: 88px;
+    font-weight: bold;
+}
+.f4{
+    padding-left: 88px;
+    cursor: pointer;
+    color: inherit;
+}
+.f5{
+    padding-left: 130px;
+    font-weight: bold;
+}
+.f6{
+    padding-left: 130px;
+}
+.f7{
+    padding-left: 100px;
+    font-size: 13px;
+}
+.input{
+    border-radius: none;
+    padding-right: 50px;
+    padding-bottom: 9px;
+    
+
+}
+.input1{
+    padding-bottom: 30px;
+}
+.abc{
+    background-color: rgb(230, 143, 3);
+    padding: 59px 49px 59px 49px;
+   border:  1px solid black;
+}
+.hr{
+    padding-bottom: 199px;
+}
+.n{
+    padding-top: 10px;
+    font-size: 20px;
+}
+.n1{
+    background-color:  rgb(253, 158, 5);
+    padding: 5px 15px 9px 20px;
+}
+.n2{
+    color: black;
+}
